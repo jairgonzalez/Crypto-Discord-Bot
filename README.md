@@ -1,1 +1,1 @@
-# Crypto-Discord-Bot
+bot
